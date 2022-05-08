@@ -24,7 +24,7 @@ For this application may be used as the backend for a e-commerce-website, epress
 * mysql -u root -p  **OR**  /usr/local/mysql/bin/mysql -u root -p
 * enter your password when prompted.
 * use ecommerce_db
-* souce db/schema.sql
+* source db/schema.sql
 * quit
 * npm run seed
 * npm start
