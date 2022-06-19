@@ -22,7 +22,7 @@
   <br/>
   </div>
   
-For this application may be used as the backend for a e-commerce-website, express.js is used for the server, mysql is used for the database, sequelize [orm] is used to run sql-models and queries.  The SQL database includes the tables for categories, tags, products, product-tags.  RESTful API-routes are used for request and updates to the database.
+* For this application may be used as the backend for a e-commerce-website, express.js is used for the server, mysql is used for the database, sequelize [orm] is used to run sql-models and queries.  The SQL database includes the tables for categories, tags, products, product-tags.  RESTful API-routes are used for request and updates to the database.
 
 ## INSTALL/RUN-DIRECTIONS
 * npm init
